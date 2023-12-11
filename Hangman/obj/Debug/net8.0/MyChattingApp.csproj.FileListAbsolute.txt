@@ -1,0 +1,14 @@
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Debug\net8.0\MyChattingApp.exe
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Debug\net8.0\MyChattingApp.deps.json
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Debug\net8.0\MyChattingApp.runtimeconfig.json
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Debug\net8.0\MyChattingApp.dll
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Debug\net8.0\MyChattingApp.pdb
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Debug\net8.0\MyChattingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Debug\net8.0\MyChattingApp.AssemblyInfoInputs.cache
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Debug\net8.0\MyChattingApp.AssemblyInfo.cs
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Debug\net8.0\MyChattingApp.csproj.CoreCompileInputs.cache
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Debug\net8.0\MyChattingApp.dll
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Debug\net8.0\refint\MyChattingApp.dll
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Debug\net8.0\MyChattingApp.pdb
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Debug\net8.0\MyChattingApp.genruntimeconfig.cache
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Debug\net8.0\ref\MyChattingApp.dll

@@ -1,0 +1,14 @@
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Release\net8.0\linux-x64\MyChattingApp
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Release\net8.0\linux-x64\MyChattingApp.deps.json
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Release\net8.0\linux-x64\MyChattingApp.runtimeconfig.json
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Release\net8.0\linux-x64\MyChattingApp.dll
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Release\net8.0\linux-x64\MyChattingApp.pdb
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Release\net8.0\linux-x64\MyChattingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Release\net8.0\linux-x64\MyChattingApp.AssemblyInfoInputs.cache
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Release\net8.0\linux-x64\MyChattingApp.AssemblyInfo.cs
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Release\net8.0\linux-x64\MyChattingApp.csproj.CoreCompileInputs.cache
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Release\net8.0\linux-x64\MyChattingApp.dll
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Release\net8.0\linux-x64\refint\MyChattingApp.dll
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Release\net8.0\linux-x64\MyChattingApp.pdb
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Release\net8.0\linux-x64\MyChattingApp.genruntimeconfig.cache
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\obj\Release\net8.0\linux-x64\ref\MyChattingApp.dll

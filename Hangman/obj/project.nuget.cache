@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ePuLQ4cFQZgDaXAyyQolN9ZnTdboyVyJwwoUajdVlZewpUsu9GpzPNQA+Y7f+Jumq9ULb+FjEPKRirfcN2/d8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aronm\\OneDrive - Thomas More\\Documenten\\School\\Operating systems\\Case Study\\MyChattingApp\\MyChattingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aronm\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.0\\microsoft.netcore.app.host.linux-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

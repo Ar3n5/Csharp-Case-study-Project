@@ -1,0 +1,5 @@
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Release\net8.0\linux-x64\publish\MyChattingApp
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Release\net8.0\linux-x64\publish\MyChattingApp.dll
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Release\net8.0\linux-x64\publish\MyChattingApp.deps.json
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Release\net8.0\linux-x64\publish\MyChattingApp.runtimeconfig.json
+C:\Users\aronm\OneDrive - Thomas More\Documenten\School\Operating systems\Case Study\MyChattingApp\bin\Release\net8.0\linux-x64\publish\MyChattingApp.pdb
